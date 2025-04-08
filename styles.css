@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #colorBox {
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    transition: background-color 0.4s ease;
+    border-radius: 10px;
+  }
+  
+  input[type="color"], button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
